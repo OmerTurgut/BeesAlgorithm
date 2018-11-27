@@ -1,0 +1,3 @@
+
+ParcacikSuruOptimizasyonu;
+AriDansi;
